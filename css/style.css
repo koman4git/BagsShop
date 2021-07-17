@@ -1,0 +1,8 @@
+.products_block_cards{
+    list-style-type: none;
+    display: flex;
+    text-align: center;
+}
+.products_cards_item{
+    display: grid;
+}
